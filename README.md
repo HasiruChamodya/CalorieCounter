@@ -1,6 +1,6 @@
 # 🥗 Calorie Counter App
 
-A simple web-based calorie tracker built by following the [freeCodeCamp tutorial](https://www.freecodecamp.org/) (link your specific tutorial here if possible). This app helps users log meals and track their total calorie intake.
+A simple web-based calorie tracker built by following the [freeCodeCamp tutorial](https://www.freecodecamp.org/). This app helps users log meals and track their total calorie intake.
 
 ## 🚀 Features
 
