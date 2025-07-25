@@ -18,5 +18,3 @@ A simple web-based calorie tracker built by following the [freeCodeCamp tutorial
 - JavaScript (Vanilla JS)
 - Browser Local Storage
 
-
-## 📂 Project Structure
