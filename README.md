@@ -9,7 +9,6 @@ A simple web-based calorie tracker built by following the [freeCodeCamp tutorial
 - Remove individual items
 - Clear all items
 - See total calories in real time
-- Data persists using `localStorage`
 
 ## 🛠️ Built With
 
